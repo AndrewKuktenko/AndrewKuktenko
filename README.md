@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andrew Kuktenko</h1>
-<h3 align="center">I'm Full Stack Engineer</h3>
+<h3 align="center">Full Stack Engineer</h3>
 
-- 🌍 [Based in Miami, USA](Based in Miami, USA)
+- 🌍 Based in Miami, USA
 
-- ✉️ **andriy.kuktenko@gmail.com**
+- 📧 **andriy.kuktenko@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
