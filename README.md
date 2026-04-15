@@ -87,10 +87,6 @@ Recently, I've been integrating **AI capabilities** into web and mobile products
 
 [![Andriy's GitHub contributions](https://ghchart.rshah.org/58A6FF/AndrewKuktenko)](https://github.com/AndrewKuktenko)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewKuktenko&theme=github-dark-blue&hide_border=true&background=0d1117" width="100%" />
-</p>
-
 ---
 
 ## 🎁 Let's Connect
