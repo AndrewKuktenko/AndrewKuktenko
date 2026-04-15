@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.kuktenko.dev"><img src="https://img.shields.io/badge/Portfolio-kuktenko.dev-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/andriy-kuktenko"><img src="https://img.shields.io/badge/LinkedIn-Andriy_Kuktenko-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/andrew-kuktenko"><img src="https://img.shields.io/badge/LinkedIn-Andriy_Kuktenko-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:andriy.kuktenko@gmail.com"><img src="https://img.shields.io/badge/Email-andriy.kuktenko@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -88,8 +88,7 @@ Recently, I've been integrating **AI capabilities** into web and mobile products
 [![Andriy's GitHub contributions](https://ghchart.rshah.org/58A6FF/AndrewKuktenko)](https://github.com/AndrewKuktenko)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndrewKuktenko&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewKuktenko&theme=github-dark-blue&hide_border=true&background=0d1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewKuktenko&theme=github-dark-blue&hide_border=true&background=0d1117" width="100%" />
 </p>
 
 ---
